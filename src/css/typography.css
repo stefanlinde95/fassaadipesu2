@@ -1,0 +1,23 @@
+font-face {
+  font-family: "Lufga";
+  font-weight: 400;
+  src: url("../fonts/LufgaRegular.ttf");
+}
+
+@font-face {
+  font-family: "Lufga";
+  font-weight: 500;
+  src: url("../fonts/LufgaMedium.ttf");
+}
+
+@font-face {
+  font-family: "Lufga";
+  font-weight: 700;
+  src: url("../fonts/LufgaSemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Lufga";
+  font-weight: 800;
+  src: url("../fonts/LufgaBold.ttf");
+}
